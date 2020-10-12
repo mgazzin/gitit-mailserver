@@ -1,0 +1,76 @@
+[
+  {
+    "category": "ICT",
+    "subcategory": "Languages",
+    "links": [
+      {
+        "id": 1,
+        "link": "http://rust-lang.org"
+      },
+      {
+        "id": 1,
+        "link": "http://isocpp.org"
+      },
+      {
+        "id": 1,
+        "link": "https://www.learn-cpp.org/"
+      }
+    ]
+  },
+  {
+    "category": "ICT",
+    "subcategory": "Languages",
+    "links": [
+      {
+        "id": 1,
+        "link": "http://isocpp.org"
+      },
+      {
+        "id": 1,
+        "link": "http://rust-lang.org"
+      },
+      {
+        "id": 1,
+        "link": "https://www.learn-cpp.org/"
+      }
+    ]
+  },
+  {
+    "category": "ICT",
+    "subcategory": "Languages",
+    "links": [
+      {
+        "id": 1,
+        "link": "https://www.learn-cpp.org/"
+      },
+      {
+        "id": 1,
+        "link": "http://rust-lang.org"
+      },
+      {
+        "id": 1,
+        "link": "http://isocpp.org"
+      }
+    ]
+  },
+  {
+    "category": "Personal",
+    "subcategory": "Wiki",
+    "links": [
+      {
+        "id": 1,
+        "link": "https://github.com/jgm/gitit"
+      }
+    ]
+  },
+  {
+    "category": "Finance",
+    "subcategory": "Riskpremia",
+    "links": [
+      {
+        "id": 1,
+        "link": "https://robotwealt.com"
+      }
+    ]
+  }
+]
